@@ -19,3 +19,5 @@ Waste classification and management are important
  visual and textual modalities to enhance waste detection accuracy,
  offering a robust tool for automated environmental monitoring
  and management.
+![gatb 2](https://github.com/user-attachments/assets/9d7ec8ad-6d34-4b2d-9d95-0f299af2b8d8)
+![output](https://github.com/user-attachments/assets/3c6e1002-73ad-4014-a535-2e605afce9ef)
